@@ -1,0 +1,10 @@
+body {
+}
+.over-set {
+  height: 300px;
+  overflow: hidden;
+  overflow-y: scroll;
+}
+.list li {
+  list-style: none;
+}
